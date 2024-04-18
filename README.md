@@ -44,3 +44,4 @@ Ans: Three core technologies of the web, HTML, CSS and JS, these three technolog
 
 > JS is the real programming language of the internet and it allows developers to add dynamic and interactive effects to any webpage. We also use it to manipulate the content or the CSS load data from remote servers and really build entire applications in the browser which we then call web applications.
 
+=================================================================================
